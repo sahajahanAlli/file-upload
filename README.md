@@ -5,6 +5,7 @@ Just need to download the project or pull from the git repo.
 below commands from project directory 
 
 -npm install
+
 -npm start
 
 
